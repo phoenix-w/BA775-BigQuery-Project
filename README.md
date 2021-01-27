@@ -1,4 +1,7 @@
-## Analyzing Change in Gender Equality Worldwide
+## World Bank Dataset Exploration and Visualization in Tableau
+
+### Project Summary
+As a team, we were tasked with locating a dataset of our choosing, performing data cleaning and exploratory data analysis, and finally creating visualization in Tableau. We chose an World Bank dataset because of the varied and interesting indicators, the sizable number of observations, and the relevance of the subject matter.
 
 ### Project Objective
 Our goal is to analyze the fluctuations in gender equality in different countries between 2000 to 2015 across education and employment indicators in high, upper middle, lower middle and low income segment groups. 
