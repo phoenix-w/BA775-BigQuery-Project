@@ -1,7 +1,7 @@
 ## World Bank Dataset Exploration and Visualization in Tableau
 
 ### Project Summary
-As a team, we were tasked with locating a dataset of our choosing, performing data cleaning and exploratory data analysis, and finally creating visualization in Tableau. We chose an World Bank dataset because of the varied and interesting indicators, the sizable number of observations, and the relevance of the subject matter. Each row in a table represents a country, containing information about the country itself and the corresponding indicator value.
+As a team, we were tasked with locating a dataset of our choosing, performing data cleaning and exploratory data analysis, and finally creating visualization in Tableau. We chose a World Bank dataset because of the varied and interesting indicators, the sizable number of observations, and the relevance of the subject matter. Each row in a table represents a country, containing information about the country itself and the corresponding indicator value.
 
 ### Project Objective
 Our goal is to analyze the fluctuations in gender equality in different countries between 2000 to 2015 across education and employment indicators in high, upper middle, lower middle and low income segment groups. 
