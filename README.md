@@ -13,4 +13,4 @@ The World Development Indicators dataset was taken from [Kaggle](https://www.kag
 
 The dataset contains over 5.6 million rows with over 1340 annual indicators of economic development from over 200 countries around the world dated between 1960 to 2015. The indicators span across five key categories: education, employment, life expectancy, economic, and health.
 
-#### By Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
+*By Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou*
